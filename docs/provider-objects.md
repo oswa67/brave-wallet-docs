@@ -1,8 +1,8 @@
 ---
 sidebar_position: 2
 ---
-
-# Provider objects
+Oswaldo _sausameda_gaucin
+# Provider objectds
 
 Dapps work by communicating with a special object named a provider object exposed to websites.
 - For Ethereum that object is `window.ethereum`.
